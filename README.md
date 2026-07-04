@@ -7,4 +7,6 @@ So just place a Molecular Assemble besides an ME Interface and now you'll see a 
 
 <img width="582" height="409" alt="image" src="https://github.com/user-attachments/assets/c3735d41-3a03-4851-a27b-77694a56ad9a" />
 
+[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ae2-me-interface-through) & [Modrinth](https://modrinth.com/mod/ae2-meithrough)
+
 This mod uses [Cleanroon](https://github.com/CleanroomMC/Cleanroom).
